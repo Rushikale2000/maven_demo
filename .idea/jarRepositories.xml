@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="CI Artifactory" />
+      <option name="name" value="public" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="centralmvn" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cocoa-external-npm" />
+      <option name="name" value="hpf-npm" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/npm-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cocoa-external-node" />
+      <option name="name" value="hpf-node" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/nodejs-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cocoa-external-snapshots" />
+      <option name="name" value="cocoa-external-snapshots" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/hpf-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cocoa-external-releases" />
+      <option name="name" value="cocoa-external-releases" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/hpf-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="DevStackSnapshots" />
+      <option name="name" value="DevStackSnapshots" />
+      <option name="url" value="https://devstack.vwgroup.com/artifactory/public" />
+    </remote-repository>
+  </component>
+</project>
