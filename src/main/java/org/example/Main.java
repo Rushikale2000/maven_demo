@@ -3,8 +3,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println("WebHook updated");
-        System.out.println("WebHook updated again");
-        System.out.println("WebHook updated again");
+        System.out.println("WebHook updated 1.0");
+        System.out.println("WebHook updated 2.0");
+        System.out.println("WebHook updated 3.0");
     }
 }
